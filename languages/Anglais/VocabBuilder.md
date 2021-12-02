@@ -24,11 +24,7 @@ One may <mark>endow</mark> a scholarship fund.
 
 
 ### beneficiary
-
-A person or organization that benefits or is expected to benefit from something, especially one that receives money or property when someone dies.
-
-> Living in a trailer in near-poverty, she received word in the mail that her father had died, naming her as the sole beneficiary of his life-insurance policy.
-
+A person or organization that benefits or is expected to benefit from something, especially one that receives money or property when someone dies. > Living in a trailer in near-poverty, she received word in the mail that her father had died, naming her as the sole beneficiary of his life-insurance policy.
 often used in connection with life insurance, but also in other contexts: A college may be the beneficiary of a private donation.
 
 ### benevolence
@@ -75,4 +71,81 @@ A lover, often secret, not allowed by law or custom.
 
 > He had been coming to the house for two year before her brothers that he was actually the paramour of their shy and withdrawn sister.
 
+
+## BELL
+Latin for "war".
+
+
+### antebellum
+
+Existing before a war, especially before the American Civil War(1861-65).
+
+> When WW1 was over, the French nobility found it impossible to return to their extravagant antebellum way of life.
+
+
+### bellicose
+
+Warlike, aggressive, quarrelsome.
+
+> The more bellicose party always got elected whenever there was tension along the border and the public believed that military action would lead to security.
+
+The word is generally applied to nations and their leaders.
+
+
+### belligerence
+
+Aggressiveness, combativeness
+
+> The belligerence in Turner's voice told them that the warning was a serious threat.
+
+The word can be used at every level from the person to the global. *adj* belligerent, which can also be a noun.
+
+
+### rebellion
+
+Open defiance and opposition, sometimes armed, to a person or thing in authority.
+
+> A student rebellion that afternoon in Room 13 resulted in the new substitute teacher racing out the building in tears.
+
+NEW PHRASE LEARNED: <mark>run its course</mark>
+
+
+## PAC
+
+Latin, for "agree" and "peace". For example, *The Pacific Ocean*.
+
+
+### pacify
+
+1. To soothe anger or agitation
+2. To subdue by armed action
+
+> It took the police hours to pacify the angry demonstration.
+
+During the Vietnam War, *pacification* of an area meant using armed force to drive out the enermy.
+
+
+### pacifist
+
+A person opposed to war or violence, especially someone who refuses to bear arms or to fight, on moral or religious grounds.
+
+> Her grandfather had fought in the Marines in WWII, but in his later years he had become almost a pacifist, opposing every war for one reason or another.
+
+
+### pact 
+
+An agreement between two or more people or groups; a treaty or formal agreement between nations to deal with a problem or to resolve a dispute.
+
+> The girls made a part never to reveal what had happened on that terrifying night in the abandoned house.
+
+
+### pace
+
+<mark>Take a notice of the pronunciation</mark>
+
+Contray to the opinion of.
+
+> She had only three husbands, *pace* some Hollywood historians who claim she had as many as six.
+
+Used in *italics*.
 
