@@ -149,3 +149,77 @@ Contray to the opinion of.
 
 Used in *italics*.
 
+
+## CRIM
+
+Latin, "fault or crime" or "accusation".
+
+
+### criminology
+
+The study of crime, criminals, law enforcement, and punishment.
+
+> His growing interest in criminology led him to become a probation officer.
+
+
+### decriminalize
+
+To remove or reduce the criminal status of.
+
+> An angry debate over decriminalization doctor-assited suicide ranged all day in the statehouse.
+
+
+### incriminate
+
+To show evidence of involvement in a crime or a fault.
+
+> The muddy tracks leading to annd from the cookie jar were enough to incriminate them.
+
+Incriminating evidence is the kind that strongly links a man to the crime. A virus can also be incriminated as the cause of a type of cancer.
+
+
+### recrimination
+
+1. An accusation in answer to an accusation made against oneself. 
+2. The making of such accusation.
+
+> Their failure to find help led to endless and pointless recriminations over responsibility for the accident.
+
+
+## PROB
+
+Latin, "prove or proof" and "honesty or integrity".
+
+
+### approbation
+
+A formal or official act of approving; praise, usually given with pleasure or enthusiasm.
+
+> The senate signaled its approbation of the new plan by voting for it unanimously.
+
+
+### probate
+
+The process of proving in court that the will of someone who has died is valid, and of administering the estate of a dead person.
+
+> When her father died, she thought she would be able to avoid probate, but she wasn't that lucky.
+
+
+### probity
+
+Absolute honesty and uprightness.
+
+> Her unquestioned probity helped win her the respect of her fellow judges.
+
+An aura of probity surrounds such public figures such as Warren Buffett, men to whom many Americans would entrust their children and their finances.
+
+
+### reprobate
+
+A person of thoroughly bad chacater.
+
+> His wife finally left him, claiming he was a reprobate who would disappear for weeks at a time, gambling and drinking away all his money.
+
+The related verb of *reprobate* is reprove, which originally, as the opposite of *approve*, meant "to condemn".
+
+
