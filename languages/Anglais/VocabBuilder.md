@@ -223,3 +223,44 @@ A person of thoroughly bad chacater.
 The related verb of *reprobate* is reprove, which originally, as the opposite of *approve*, meant "to condemn".
 
 
+## GRAV
+
+Latin, "heavy, weighty, serious".
+
+
+### grave
+
+1. Requiring serious thought or concern
+2. Serious and formal in appearance or manner
+
+> We realize that the situation was grave and that the slightest incident could spark all-out war.
+
+You can refer to the <mark>gravity of a person's manner</mark>.
+
+
+### gravitas
+
+Great or very dignified seriousness.
+
+> The head of the committee never failed to carry herself with the gravitas she felt was appropriate to her office.
+
+
+### gravitate
+
+To more or be drawn toward something, especially by natural tendency or as if by an invisible force.
+
+> On hot evenings, the town's social life gravitated toward the lakefront, where you could stroll the long piers eating ice cream or dance at the old Casino.
+
+To gravitate is to respond, almost unconsicously, to a force that works like *gravity* to draw things steadily to it as if by their own weight.
+
+
+### aggravate
+
+1. To make (an injury, problem, etc.) more serious or severe.
+2. To annoy or bother.
+
+> She went back to the soccer team before the knee was completely healed, which naturally aggravates the injury.
+
+
+## LEV
+
