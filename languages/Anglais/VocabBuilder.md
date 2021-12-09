@@ -264,3 +264,115 @@ To gravitate is to respond, almost unconsicously, to a force that works like *gr
 
 ## LEV
 
+Latin, "light"
+
+
+### alleviate
+
+To lighten, lessen, or relieve, especially physical or mental suffering.
+
+> Cold compresses alleviated the pain of the physical injury, but only time could alleviate the effect of the insult.
+
+To alleviate is not to cure.
+
+
+### elevation
+
+1. The height of a place
+2. The act of result of lifting or raising someone or something.
+
+> Her doctor is conerned about the elevation of her blood pressure since her last visit.
+
+Psychologists use the term "mood elevation" to mean improvemment in a patient's depression. *Elevation* can also mean "promotion"; thus a vice president may be *elevated* to a president.
+
+
+### cantilever
+
+A long piece of wood, mental, etc. that sticks out from a wall to support something above it.
+
+> The house's deck, supported by cantilevers, jutted out dramatically over the rocky slope, and looking over the edge made him dizzy.
+
+
+### levity
+
+Lack of appropriate seriousness.
+
+> The Puritan elders tried to ban levity of all sorts from the community's meetings, but found it increasingly difficult to control the young generation.
+
+Today *levity* refers only to <mark>lightness in manner</mark>.
+
+
+## MANIA
+Latin, "madness": *maniac*, *manic*
+
+
+### kleptomania
+
+A mental illness in which a person has a strong desire to steal things.
+
+> Kleptomania leads its sufferers to steal items of little value that they don't need anyway.
+
+*Klepto-* comes from Greek word *kleptein*, to steal.
+
+
+### dipsomaniac
+
+A person with an extreme and uncontrollable desire for alcohol.
+
+> She didn't like the word *alcoholic* being applied to her, and liked *dipsomaniac* even less.
+
+*Dipsomaniac* comes from the Greek noun *dipsa*, "thirst". *Dipsomaniac* is used for someone involved in frequent episodes of binge drinking and blackouts.
+
+
+### megalomaniac
+
+A mental disorder marked by feelings of great personal power and importance.
+
+> When the governor started calling for arming his National Guard with nuclear weapons, the voters finally realized they had elected a megalomaniac.
+
+Greek root *megalo-* means "large".
+
+
+### egomaniac
+
+Someone who is extremely self-centerd and ignores the problems and concerns of others.
+
+> He's a completely unimpressive person, but that doesn't keep him from being an egomaniac.
+
+
+## PSYCH
+
+comes from the Greek word *psyche*, meaning "breath, life, soul". (Note the differences between *psychology* and *psychiatry*.
+
+
+### psyche
+
+Soul, personality, mind.
+
+> Analysts are constantly trying to understand the nation's psyche and why the U.S. often behaves so differently from other countries.
+
+In English, *psyche* often sounds less spiritual than *soul*, less intellectual than *mind*, and more private than *personality*.
+
+
+### psychedelic
+
+1. Of or relating to a drug (such as LSD) that produces abnormal and often extreme mental effects such as hallucinations.
+2. Imitating the effects of psychedelic drugs.
+
+> In her only psychedelic experience, back in 1970, she had watched with horror as the walls began crawling with bizarrely colored creatures.
+
+
+### psychosomatic
+
+Caused by mental or emotional problems rather than physical illness.
+
+> Her doctor assumed her stomach problems were psychosomatic but gave her some harmless medication anyway.
+
+
+### psychotherapist
+
+One who treats mental or emotional disorder or related bodily ills by psychological means.
+
+> He's getting medication from a psychiatrist, but it's his seriousness with the psychotherapist that he really values.
+
+
