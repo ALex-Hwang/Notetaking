@@ -139,7 +139,7 @@ A person opposed to war or violence, especially someone who refuses to bear arms
 
 An agreement between two or more people or groups; a treaty or formal agreement between nations to deal with a problem or to resolve a dispute.
 
-> The girls made a part never to reveal what had happened on that terrifying night in the abandoned house.
+> The girls made a parc never to reveal what had happened on that terrifying night in the abandoned house.
 
 
 ### pace
