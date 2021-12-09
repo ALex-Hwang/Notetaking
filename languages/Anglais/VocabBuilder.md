@@ -24,7 +24,9 @@ One may <mark>endow</mark> a scholarship fund.
 
 
 ### beneficiary
-A person or organization that benefits or is expected to benefit from something, especially one that receives money or property when someone dies. > Living in a trailer in near-poverty, she received word in the mail that her father had died, naming her as the sole beneficiary of his life-insurance policy.
+A person or organization that benefits or is expected to benefit from something, especially one that receives money or property when someone dies. 
+
+> Living in a trailer in near-poverty, she received word in the mail that her father had died, naming her as the sole beneficiary of his life-insurance policy.
 often used in connection with life insurance, but also in other contexts: A college may be the beneficiary of a private donation.
 
 ### benevolence
