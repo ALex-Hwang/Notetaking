@@ -173,7 +173,7 @@ To remove or reduce the criminal status of.
 
 To show evidence of involvement in a crime or a fault.
 
-> The muddy tracks leading to annd from the cookie jar were enough to incriminate them.
+> The muddy tracks leading to and from the cookie jar were enough to incriminate them.
 
 Incriminating evidence is the kind that strongly links a man to the crime. A virus can also be incriminated as the cause of a type of cancer.
 
@@ -374,5 +374,87 @@ Caused by mental or emotional problems rather than physical illness.
 One who treats mental or emotional disorder or related bodily ills by psychological means.
 
 > He's getting medication from a psychiatrist, but it's his seriousness with the psychotherapist that he really values.
+
+
+## CEPT
+
+Latin, "take, seize". *captive* and *captor*.
+
+
+### reception
+
+1. The act of receiving.
+2. A social gathering where guests are formally welcomed.
+
+> Although the reception of her plan by the board of directors was enthusiastic, it was months before anything was done about it.
+
+<mark>Do not reply e-mails with *well-recived*.</mark>
+
+Instead, the book is *well-received*.
+
+
+### intercept
+
+To stop, seize, or interrupt(something or someone) before arrival.
+
+> The explosives had been intercepted by police just before being loaded onto the jet.
+
+
+### perceptible
+
+Noticeable or able to be felt by the senses.
+
+> Her change in attitude toward him was barely perceptible, and he couldn't be sure he wasn't just imagining it.
+
+A perceptive person picks up minor changes.
+
+
+### susceptible
+
+1. Open to some influence; responsive.
+2. Able to be submitted to action of process.
+
+> She impressed everyone immediately with her intelligence, so they are now hightly susceptible to her influence and usually go along with anything she proposes.
+
+A sicky child may be susceptible to codes, and an unlucky adult may be susceptible to back problems.(so sad I am the unlucky adult).
+
+
+## FIN
+
+Latin, "end" or "boundary".
+
+
+### confine
+
+1. To keep (someone or something) within limits.
+2. To hold (someone) in a location.
+
+> He had heard the bad news from the CEO, but when he spoke to his employees he confined his remarks to a few things that sales had slipped.
+
+At a business meeting, the discussion may be confined to a single topic.
+
+
+### definitive
+
+1. Authoritative and final.
+2. Specifying perfectly or precisely.
+
+> The team's brilliant research provided a definitive description of the virus and its strange mutation patterns.
+
+A definitive example is the prefect example.
+
+
+### finite
+
+Having definite limits.
+
+> Her ambitions were infinite, but her wealth was finite.
+
+
+### infinitesimal
+
+Extremely or immeasurably small.
+
+> Looking more closely at the research data, he now saw at an odd pattern  of changes so infinitesima that they hadn't been noticed before.
 
 
