@@ -461,3 +461,81 @@ Extremely or immeasurably small.
 > Looking more closely at the research data, he now saw at an odd pattern  of changes so infinitesima that they hadn't been noticed before.
 
 
+## JECT 
+Comes from Latin *jacere*, "throw" or "hurl"
+
+
+### interject
+
+To interrupt a conversation with a commect or remark.
+
+> His anger was growing as he listened to the conversation, and every so often he would interject a crude comment.
+
+
+### conjecture
+
+To guess.
+
+> He was last heard of in Bogota, and they conjectured that he had met his end in the Andes at the hands of the guerrillas.
+
+Formed with the prefix *con*, "together", *conjecture* means literally "to throw together".
+
+
+### projection
+
+An estimate of what might happen in the future based on what is happening right now.
+
+> The president has been hearing different deficit projections all week from the members of his economic team.
+
+Something is sent or forward.
+
+
+### trajectory
+
+The curved path that an object makes in space, or that a thrown object follows as it rises and falls to earth.
+
+> Considering the likely ranger, trajectory, and accuracy of a bullet fired from a cheap handgun at 100 yards, the murder seemed incredible.
+
+The prefix *trans-*, "across".
+
+
+## TRACT
+
+Comes from Latin *trahere*, meaning "drag or draw".
+
+
+### traction
+
+The friction that allows a moving thing to move over a surface without slipping.
+
+> The spinning wheels were getting no traction on the ice, and we began to slip backward down the hill.
+
+
+### retract
+
+1. To pull back (something) into something larger.
+2. To take back (something said or written).
+
+> She was forced to retract her comment about her opponent after it was condemmed in the press.
+
+A caw retracts its claws into its paws.
+
+
+### protracted
+
+Drawn out, continued, or extended.
+
+> No one was looking forward to a protracted struggle for custody of the baby.
+
+Prefix *pro*, meaning "forward". A protracted strike may cripple a company; a protracted rainy spell may rot the roots of vegetables.
+
+
+### intractable
+
+Not easily handled, led, taught, or controlled.
+
+> Corruption in the army was the country's intractable problem, and for many years all foreign aid had ended in te colonel's pockets.
+
+*Intractable* simply means "untreatable".
+
+
