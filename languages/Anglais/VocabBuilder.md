@@ -539,3 +539,90 @@ Not easily handled, led, taught, or controlled.
 *Intractable* simply means "untreatable".
 
 
+## DUC
+
+Latin, "to lead". *Duke* means basically "leader".
+
+
+### conducive
+
+Tending to promote, encourage, or assist; helpful.
+
+> She found the atmosphere in the quiet cafe conducive to study and even to creative thinking.
+
+Notice that *conducive* is almost always followed by *to*.
+
+
+### deduction
+
+1. Substraction.
+2. The reaching of a conclusion by reasoning.
+
+> Foretelling the future by deduction based on a political or economic has theory has proved to be exactly difficult.
+
+To *deduct* is simply to substract: *Tax deduction*.
+
+But *deduction* also means "reasoning", and particularly reasoning based on general priciples.
+
+
+### induce
+
+1. Persuade, influence.
+2. Bring about.
+
+> To induce him to make the call we had to promise we wouldn't do it again.
+
+*Inducing* is usually <mark>gentle</mark> persuasion. An *inducement* is something that might lure you to do something. You can also say that doctors *induce* labor in a pregnant woman.
+
+
+### seduction
+
+1. Temptation to sin, especially temptation to sexual intercourse.
+2. Attraction or charm.
+
+> The company began its campaign of seduction of the smaller firm by inviting its top management to a series of weekends at expensive resorts.
+
+Its prefix *se-*, "aside", means basically "lead aside or astray".
+
+
+## SEQU
+
+Latin, *sequi*, meaning "to follow".
+
+
+### sequential
+
+1. Arranged in order or in a series.
+2. Following in a series.
+
+> In writing the history of the revolution, his challenge was to put all the events of those fateful days in proper sequential order.
+
+Things in *sequence*, or regular orfer, are arranged *sequentially*.
+
+
+### subsequent
+
+Following in time, order, or in place; later.
+
+> Throught all her subsequent love affairs, she never stopped thinking about the man who got away.
+
+*subsequently* can also mean "later".
+
+
+### consequential
+
+1. Resulting.
+2. Important.
+
+> None of our discussions thus far has been very consequential; next week's meeting will be the important one.
+
+*consequential losses*, in which *consequential* means "resulting".
+
+
+### non sequitur
+
+A statement that does not follow logically from anything previously said.
+
+> Rattled by the question, his mind went blank, and he blurted out a non sequitur that fetched a few laughs from the audience.
+
+*non sequitur* is a Latin phrase, meaning "is does not follow.".
