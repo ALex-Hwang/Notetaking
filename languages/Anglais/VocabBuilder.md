@@ -652,4 +652,49 @@ Existing or present on all sides.
 *ambient* temperature.
 
 
-### 
+### ambivalent
+
+1. Holding opposite feelings and attitudes at the same time toward someone or something.
+2. Continually wavering between opposites or alternative courses of action.
+
+> He was ambivalent about the trip: he badly wanted to travel but hated to miss the summer activities at home.
+
+
+### ambit
+
+The range or limit covered by something(such as a law)
+
+> The treatment of farm animals generally falls outside the ambit of animal-cruelty laws in the U.S.'
+
+
+## EPI
+
+Greek, "on, over" or "attched to".
+
+### epilogue
+
+The final section after the main part of a book or play.
+
+> Her editor told her the book really needed a epilogue, to tell where each member of the family is today.
+
+In nonfiction books, we now often use the term *afterword* instead of *epilogue*, *foreword* instead *prologue*.
+
+
+### epiphyte
+
+A plant that obtains its nutrients from the air and the rain and usually grows on another plant for support.
+
+> The strangler fig begins life as an epiphyte on a tree branch.
+
+
+### epitaph
+
+An inscription on a grave or tomb in memory of the one buried there.
+
+
+### epithet
+
+1. A descriptive word or phrase occurring with or in place with the name of a person or thing.
+2. An insulting or demanding word or phrase.
+
+
