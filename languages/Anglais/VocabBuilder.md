@@ -625,4 +625,31 @@ A statement that does not follow logically from anything previously said.
 
 > Rattled by the question, his mind went blank, and he blurted out a non sequitur that fetched a few laughs from the audience.
 
-*non sequitur* is a Latin phrase, meaning "is does not follow.".
+*non sequitur* is a Latin phrase, meaning "is does not follow."
+
+
+## AMBI
+
+Latin, "on both sides" or "around". *Anbidextrous* people can use their right and left hand equally well.
+
+
+### amibiguous
+
+1. Doubtful or uncertain especially from being obscure or indistinct.
+2. Unclear in meaning because of being understandable in more than one way.
+
+> Successful politicians are good at giving ambiguous answers to questions on difficult issues.
+
+*Ambiguous* comes from the Latin verb *ambigere*, "to be undecided".
+
+
+### ambient
+
+Existing or present on all sides.
+
+> The ambient lighting in the restaurant was low, and there was a bright candle at each table.
+
+*ambient* temperature.
+
+
+### 
