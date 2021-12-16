@@ -698,3 +698,41 @@ An inscription on a grave or tomb in memory of the one buried there.
 2. An insulting or demanding word or phrase.
 
 
+## HYPO
+
+Greek, "below, under". A *hypodermic* needle injects medication under the skin. *hypotension* and *hypertension*.
+
+
+### hypochondriac
+
+A person overly concerned with his or her own health who often suffers from delusions of physical disease.
+
+> Hercule Poirot, the detective hero of the Anatha Christie mysteries, is a notorious hypochondriac, always trying to protect himself from drafts.
+
+
+### hypoglycemia
+
+Abnormal decrease of sugar in blood.
+
+> She had been controlling her hypoglycemia throught diet and vitamins, but she now realized she needed to add daily exercise as well.
+
+The root *glyk* mean "sweet" in Greek.
+
+
+### hypothermia
+
+Subnormal temperature of the body.
+
+> By the time rescuers were able to pull the boy out from the pond's icy waters, hypothermia had reached a life-threatening stage.
+
+
+### hypothetical
+
+1. Involving an assumption made for the sake of argument or for further study or investigation.
+2. Imagined for purposes of example.
+
+> The candidate refused to say what she would do if faced with hypothetical military crsis.
+
+Once a hypothesis has been thoroughtly studied and researched without being proved wrong, it generally comes too be called a *theory* instead.
+
+
