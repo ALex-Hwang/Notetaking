@@ -736,3 +736,35 @@ Subnormal temperature of the body.
 Once a hypothesis has been thoroughtly studied and researched without being proved wrong, it generally comes too be called a *theory* instead.
 
 
+## THERM/THERMO
+
+Greek, "warm". *thermometer* measures the amount of warmth in a body, the air, or an oven. *thermostat* makes sure the temperature stays at the same level.
+
+
+### thermal
+
+1. Of, relating to, or caused by heat.
+2. Designed to insulate in order to retain body heat.
+
+> A special weave called thermal weave traps insuulating air in little pockets to increase the warmth of long underwear and blankets.
+
+
+### thermodynamics
+
+Physics that deals with the mechanical actions or relations of heat.
+
+> With his college major in electrical engineering, he assumed it would be an easy step to graduate-school concentratio in thermodynamics.
+
+
+### thermonuclear
+
+Of or relating the changes in the nucleus of atoms with low atomic weight, such as hydrogen, that require a very high temperature to begin.
+
+> In the 1950s and '60s, anxious American families built thousands of underground "fallout shelters" to protect themselves from the radiation of a thermonuclear blast.
+
+
+### British thermal unit
+
+The quantity of heat required to raise the temperature of one pround of water one degree Fahrenheit at a specified temperature.
+
+
