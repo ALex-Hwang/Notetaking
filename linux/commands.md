@@ -70,4 +70,55 @@ CREATE_MAIL_SPOOL=no
 - ZFS
 - Btrfs
 
+## Shell Scripts
+
+### if statement
+```shell
+if command
+then
+    commands
+elif command
+then
+    commands
+else
+    commands
+fi
+
+# also
+if command; then
+commands
+fi
+```
+If the exit status of the command is zero (the command completed successfully), the commands listed under the *then* section are executed.
+
+##### using test or [] to test condition
+```shell
+if test condition
+then
+    commands
+fi
+
+# also
+
+if [ condition ]
+then
+    commands
+fi
+```
+
+### string comparison
+
+1. When comparing two strings, use \ to escape the `>`.
+
+```shell
+if [ $value1 \> $value2 ]
+then
+    commands
+fi
+```
+
+2. Comparison is based to ASCII ordering, while `sort` is based on the system locale.
+
+> `Testing` is greater than `testing` when `sort` is being used, less when `shell string comparison` is used.
+
 
