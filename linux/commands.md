@@ -121,4 +121,16 @@ fi
 
 > `Testing` is greater than `testing` when `sort` is being used, less when `shell string comparison` is used.
 
+### advanced test
+1. double parentheses for mathmatical expressions.
+2. double square brackets for advanced string handling function.
 
+### case
+```shell
+case variable in
+pattern 1 | pattern 2) commands;;
+pattern 3) commands;;
+pattern 4) commands;;
+*) default commands;;
+esac
+```
