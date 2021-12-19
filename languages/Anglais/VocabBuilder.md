@@ -768,3 +768,76 @@ Of or relating the changes in the nucleus of atoms with low atomic weight, such 
 The quantity of heat required to raise the temperature of one pround of water one degree Fahrenheit at a specified temperature.
 
 
+## POLY
+comes from *polys*, the Greek word for "many". A *polytechnic* institute offers instructions in many technical fields. *Polygamy* is marriage in which one has many spouses, at least more than the legal limit of one.
+
+
+### polyp
+
+1. A sea invertebrate that has a mouth opening at one end surrounded by stinging tentacles.
+2. A growth projecting from a mucous membrance, as on the colon or vocal cords.
+
+> She had had a ployp removed from her throat, and for two wweeks afterward she could only whisper.
+
+
+### ployglot
+
+1. One who can speak or write several languages.
+2. Having or using several languages.
+
+> As trade between countries increases, there is more need for polyglots who can act as negotiators.
+
+*Polyglot* contains the root *glot*, meaning "language", which is used both as a noun and as an adjective.
+
+
+### polymer
+
+A chemical compound formed by a reaction in which two or more molecules combine to form larger molucules with repeating structral units.
+
+> Nylon, a polymer commercially introduced in 1938, can be spun and woven into fabrics or cast as tough, elastic bblocks.
+
+
+### polygraph
+
+AN instrument for recording changes in several bodily functions (such as blood pressure and rate of breathing) at the same time.
+
+> My brother-in-law is completely law-abiding, but he's such a nervous type that he's failed two polygraph tests at job interviews.
+
+
+## PRIM
+
+comes from Latin, *primus*, meaning "first".
+
+
+### primal
+
+Basic or primitive.
+
+> There was always a primal pleasure in listening to the rain beat on the roof at night and dropping off to sleep in front of the fire.
+
+*Primal* generally describes something powerful and almost instinctual.
+
+
+### primer
+
+1. A small book for teaching children to read.
+2. A small introductory book on a subject.
+
+> She announced that she'd be passing out a primer on mutual funds at the end of the talk.
+
+
+### primate
+
+Any member of the group of animals that includes human beings, apes, and monkeys.
+
+> Dr. Leaky sent three young women to work with individual primates: Jane Goodall with the chimpanzees, Dian Fossey with the gorillas, and Birute Galdakkkis with the orangutans.
+
+
+### primordial
+
+1. First created or developed.
+2. Existing in or from the very beginning.
+
+> Many astronomers think the universe is continuing to evolve from a primordial cloud of gas.
+
+*Primordial* can be traced back to the Latin word *primordium*, or "origin".
