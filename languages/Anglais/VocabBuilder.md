@@ -842,3 +842,52 @@ Any member of the group of animals that includes human beings, apes, and monkeys
 
 *Primordial* can be traced back to the Latin word *primordium*, or "origin".
 
+
+## HOMO
+
+Greek, "same", which in English words may also mean "similar". A *homosexual* is a person who favors others of the same sex.
+
+
+### homonym
+
+One of the two or more words pronounced and/or spelled alike but different in meaning.
+
+> The *pool* of "a pool of water" and the *pool* of "a game of pool" are homonyms.
+
+It may refer to three distinct classes of words:
+1. homophones: 
+- words with identical pronunciations but different spellings and meanings, such as *to*, *too*, and *two*.
+- words with both identical pronunciation and spellings  but different meanings, such as *quail*(the bird) and *quail* (to cringe).
+
+2. homographs:
+
+- words that are spelled alike but are different in pronunciation and meaning, such as the *bow* of a ship and *bow* that shoots arrows.
+
+
+### homogeneous
+
+1. Of the same of a similar kind. 
+2. Of uniform structure or composition throughout.
+
+> Though she was raised in a small town, she found the city more interesting because its population was less homogeneous.
+
+A neighbourhood might be called homogeneous if all the people in it are similar, having pretty  much the same background, education, and outlook.
+
+
+### homologous
+
+Developing from the same or a similar part of a remote ancestor.
+
+> Arms and wings are homologous structures that reveal the ancient relationship between birds and four-legged animals.
+
+*homologous* to sth.
+
+
+### homogenize
+
+1. To treat (milk) so that the fat is mixed throughout instead of floating on top.
+2. To change (something) so that its parts are the same or similar.
+
+> By now the suburb had gotten so homogenized that he couldn't tell the families on his street apart.
+
+People who use the word often dislike the idea that everything is becoming the same, whether it's radion shows that are no longer produced locally or schools that rely too much on standardized testing.
