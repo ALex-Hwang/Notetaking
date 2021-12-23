@@ -891,3 +891,77 @@ Developing from the same or a similar part of a remote ancestor.
 > By now the suburb had gotten so homogenized that he couldn't tell the families on his street apart.
 
 People who use the word often dislike the idea that everything is becoming the same, whether it's radion shows that are no longer produced locally or schools that rely too much on standardized testing.
+
+
+## DIS
+
+Latin, "apart".
+
+
+### dissuade
+
+To convince (someone) not to do something.
+
+> The thought of the danger he might be facing on the journey makes her uneasy, and she's trying to dissuade from going.
+
+*Dissuade* is the opposite of *persuade*. 
+
+
+### disorient
+
+To cause to be confused or lost.
+
+> By now the hikers were completely disoriented, and darkness was falling fast.
+
+
+### discredit
+
+1. To cause (someone or something) to seem dishonest or untrue.
+2. To damage the reputation of (someone).
+
+> His book has been thoroughly discredited by scholars, and his reputation was badly damaged.
+
+
+### dislodge
+
+To force out of a place of rest, hiding, or defense.
+
+> Senators are attempting to dislodge the bill from the committee, where the chairman has failed to act on in for five months.
+
+A *lodge* is usually a kind of roominghouse or hotel, and the verb *lodge* often means staying or sleeping in such a place. Thus, *dislodge* means removing a person or thing from where it's been staying. You might use a toothpick to dislodge a seed from between your teeth, police might use tear gas to dislodge a sniper from his hiding place.
+
+
+### VOR
+
+Latin, *vorare*, "to eat".
+
+### carnivorous
+
+Meat-eating or flesh-eating
+
+> He'd gotten tired of his vegetarian guinea pigs and decided he preferred carnivorous pets such as ferrets.
+
+*omnivore*.
+
+
+### herbivorous
+
+Plant-eating.
+
+> In spite of their frightening appearance, marine iguanas are peaceable herbivorous animals that feed mostly on seaweed.
+
+
+### insectivorous
+
+Feeding on insects.
+
+> Their rather odd 12-year-old son kept insectivorous plants in his bedroom and fed them live flies.
+
+
+### voracious 
+
+Having a large appetite.
+
+> One of the hardest parts of dieting is watching skinny people with voracious appetites consume large amounts offood without gaining weight.
+
+Teenagers are *voracious* eaters; you may become a *voracious* reader on vacation; and Americans have loon been voracious consumers.
