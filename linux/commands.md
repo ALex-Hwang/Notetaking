@@ -350,4 +350,111 @@ $ ./test 2> error.test
 exec 1> output.test
 ```
 
+### functions
+
+There are two ways of creating functions:
+
+```shell
+function name {
+    commands
+}
+```
+
+```shell
+name() {
+commands
+}
+```
+
+> Use the function after it is defined!
+
+
+#### returning value tips:
+
+1. Remember to retrive the return value as soon as the function completes.
+2. Remember that an exit status must be in the range of 0 to 255.
+
+
+#### Using function output
+
+```shell
+test() {
+    echo 1
+}
+value=$(test)
+echo $value
+```
+
+### passing parameters to a function 
+
+```shell
+function addem {
+    if [ $# -eq 0 ] || [ $# -gt 2 ]
+    then
+        echo -1
+    elif [ $# -eq 1 ]
+    then 
+        echo $[ $1 + $1 ]
+    else
+        echo $[ $1 + $2 ]
+    fi
+```
+
+#### local parameters
+
+`local parameter`
+
+### Array variable and functions
+
+### passing array to functions
+
+```shell
+#!/bin/bash
+function copyFiles() {
+   arr=("$@")
+   for i in "${arr[@]}";
+      do
+          echo "$i"
+      done
+
+}
+
+array=("one 1" "two 2" "three 3")
+
+copyFiles "${array[@]}"
+```
+
+### returning array from functions
+
+> You can turn to google for example.
+
+### Creating libraries
+
+Source the library file using the *dot* `.` operator.
+
+`. ./libraryFile`
+
+##  Writing scripts for graphical desktops
+
+### Creating text menus
+
+1. using `echo`:
+```shell
+clear
+echo -e "\t\t1. option a"
+echo -e "\t\t2. option b"
+echo -en "\t\tEnter option: "
+read -n 1 option
+```
+
+2. using `select`
+```shell
+select variable in list
+do
+    commands
+done
+```
+
+> When using the `select` command, remember that the result value stored in the variable is the entire text string instead of the number associated with the text.
+
 
