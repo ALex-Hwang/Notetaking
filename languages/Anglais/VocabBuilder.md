@@ -965,3 +965,48 @@ Having a large appetite.
 > One of the hardest parts of dieting is watching skinny people with voracious appetites consume large amounts offood without gaining weight.
 
 Teenagers are *voracious* eaters; you may become a *voracious* reader on vacation; and Americans have loon been voracious consumers.
+
+
+## CARN
+
+Latin, meaning "flesh" or "meat". *Carnation* originally meant "the color of flesh", which was once the only color of the flower we call the carnation.
+
+
+### carnage
+
+Great destruction of life (as in a battle); slaughter.
+
+> Countries around the world appealed to all sides of the conflict to stop the carnage of the war in Bosnia.
+
+The word has mostly referred to large-scale killing in wartime. Also, it is appropriate to speak of carnage on the nation's highways.
+
+
+### carnal
+
+Having to do with bodily pleasures.
+
+> The news stories about students on Spring Break tend to focus on the carnal pleasure associated with the annual ritual.
+
+In Chritianity in past centuries, *carnal* was often used as the opposite of *spiritual*, describing what are sometimes called "the pleasures of the flesh". Today, we generally mean "sexual" when using *carnal*.
+
+
+### incarnate
+
+Given bodily or actual form; especially, having human body.
+
+> For the rest of his life, he would regard his childhood nanny as goodness incarnate.
+
+Jesus as the *incarnation* of human. The word *incarnate* can be a noun, an adjective, or a verb, as in "This report simply incarnates the prejudices of its authors."
+
+
+### reincarnation
+
+1. Rebirth in new bodies or forms of life.
+2. Someone who has been born again with a new body after death.
+
+> Even as a child, he struck everyone as a reincarnation of his grandfather, not in his features but in his manner and personality.
+
+
+## CRED
+
+
