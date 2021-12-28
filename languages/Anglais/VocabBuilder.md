@@ -1009,4 +1009,82 @@ Jesus as the *incarnation* of human. The word *incarnate* can be a noun, an adje
 
 ## CRED
 
+comes from Latin, *credere*, meaning "to believe" or "to entrust".
+
+
+### credence
+
+Mental acceptance of something as true or real; belief.
+
+> He scoffed and said no one still gives any credence to the story of the Loch Ness Monster.
+
+Unlike *belief*, *credence* is seldom used in connection with faith in a religion or philosophy. Instead, it is used in reference to reports, rumors and opinions. It tends to be used with the words *give*, *lack*, *lend*, and *gain*.
+
+
+### credible
+
+1. Able to be believed; reasonable to trust or believe.
+2. Good enough to be effective.
+
+> Because of her past criminal record, the defense lawyers knew she wouldn't be a credible witness.
+
+
+### credulity
+
+Readiness and willingness to believe on the basis of little evidence.
+
+> Thrillers and action movies only succeed if they don't strain our credulity too much.
+
+A particular far-fetched story may be said to strain credulity, strech credulity, put demands on our credulity, or make claims on our credulity. F. Scott Fitzgerald once defined advertising as "making dubious promises to credulous public."
+
+
+### credo
+
+1. A statement of the basic beliefs of a religious faith.
+2. A set of guiding principles or beliefs.
+
+> She claims she made her money on Wall Street just by following the old credo "Buy low, sell high."
+
+*Credo* comes straight from the Latin word meaning "I believe", and cna be applied to any guiding principle or set of principles.
+
+
+## FID
+
+comes from *fides*, the Latin word for "faith", or "trust".
+
+
+### affidavit
+
+A sworn statement made in writing.
+
+> The whole family had signed affidavits stating that they believed the will to be valid.
+
+Affidavits (unlike similar signed statements called *depositions*) are usually made without an opposing lawyer being present and able to ask questions.
+
+
+### diffident
+
+Lacking confidence; timid, cautious.
+
+> He always found it a struggle to get his most diffident students to speak in front of the class.
+
+*Diffident* means lacking faith in oneself-in other words, the opposite of *confident*. A helpful friend should try to instill confidence in place of *diffidence*.
+
+
+### fiduciary
+
+1. Having to do with a confidence or trust.
+2. Held in trust for another.
+
+> Pension-fund managers have a fiduciary responsibility to invest the pension's funds for the sole benefit of those who will receive the pensions.
+
+A fiduciary relationship is one in which one person places faith in another.
+
+
+### perfidy
+
+Faithlessness, disloyalty, or treachery.
+
+> While working for the CIA he was lured into becoming a double agent, and it seems he paid a high price for his perfidy.
+
 
