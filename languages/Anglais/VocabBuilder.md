@@ -1088,3 +1088,41 @@ Faithlessness, disloyalty, or treachery.
 > While working for the CIA he was lured into becoming a double agent, and it seems he paid a high price for his perfidy.
 
 
+## CURR/CURS
+
+comes from *currere*, the Latin verb for "to run". Although words based on this root don't tend to suggest speed, the sense of movement remains.
+
+### concurrent
+
+Happening or operating at the same time.
+
+> The killer was sentenced to serve three concurrent life terms in prison.
+
+Things that are concurrent usually not only happen at the same time, but also are similar to each other.
+
+
+### cursory
+
+Hastily and often carelessly done.
+
+> Having spent the weekend going to parties, she had only given the chapter a cursory reading before class on Monday.
+
+*Cursory* always inplies speed, but it also stresses a lack of attention to detail. And when citizens complain about a cursory police investigation of a crime, they're distressed by its lack of thoroughness, not its speed.
+
+
+### discursive
+
+Passing from one topic to another.
+
+> Some days he allowed himself to write long discursive essays in his diary instead of his usual simple reportin g of the day's event.
+
+The Latin verb *discurrere* meant "to run about," and from this word we get our word *discursive*, which often means rambling about over a wide range of topics.
+
+
+### percursor
+
+One that goes before and indicates the coming of another.
+
+> Scientista are trying to identify special geological activity that may be a precursor to an earthquake, which will help them predict the quake's size, time, and location.
+
+A precursor is literally a *forerunner*. But a forerunner may simply come before another thing, but a precursor generally paves the way for something. 
