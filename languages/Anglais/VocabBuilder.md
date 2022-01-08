@@ -1126,3 +1126,42 @@ One that goes before and indicates the coming of another.
 > Scientista are trying to identify special geological activity that may be a precursor to an earthquake, which will help them predict the quake's size, time, and location.
 
 A precursor is literally a *forerunner*. But a forerunner may simply come before another thing, but a precursor generally paves the way for something. 
+
+
+## PED
+
+comes from the Latin word for "foot". A *pedal* is pushed by the foot; a *pedicure* is a treatment of the feet, and toenails; and a *pedestal* is what a statue stands on-in a sense, its foot.
+
+
+### quadruped
+
+An animal having four feet.
+
+> She always tells her friends that their farm has five kinds of quadrupeds: sheep, goats, cows, horses, and pigs.
+
+
+### pedigree
+
+The line of ancestors of a person or animal.
+
+> She talks a lot about her pedigree, but never mentions that a couple of her uncles spent time in prison.
+
+The word *pedigree* is usually used for purebred animals.
+
+
+### impediment
+
+Something that interferes with movement or progress.
+
+> Her poorly developed verbal ability was the most serious impediment to her advancement.
+
+We may speak of an *impediment* to communication, marriage, or progress-but something that slows the progress of aging, disease, or decay is rarely called an *impediment*.
+
+
+### pedestrian
+
+Commonplace, ordinary, or unimaginative.
+
+> While politicians endlessly discussed the great issues facing Russia, the Russians worried that such pedestrian concerns as finding enough food, shelter, and clothing.
+
+*Pedestrian* is often used to describe a colorless or lifeless writing style, but it can also describe politicians, public tasted, personal qualities, or possessions.
