@@ -1165,3 +1165,43 @@ Commonplace, ordinary, or unimaginative.
 > While politicians endlessly discussed the great issues facing Russia, the Russians worried that such pedestrian concerns as finding enough food, shelter, and clothing.
 
 *Pedestrian* is often used to describe a colorless or lifeless writing style, but it can also describe politicians, public tasted, personal qualities, or possessions.
+
+
+## FLECT
+
+comes from *flectere*, the Latin verb meaning "to bend".
+
+
+### deflect
+
+To turn aside, especially from a straight or fixed course.
+
+> The stealth technology used on bombers and fighter jets works by deflecting radar energy, making them "invisible".
+
+A Hollywood actress might *deflect* criticism about her personal life by giving lavishly to clarity, for example, we've all tried to change the subject to deflect a question we really didn't want to answer.
+
+
+### reflective
+
+1. Capable of reflecting light, images, or sound waves.
+2. Thoughtful
+
+> He likes action movies and going out drinking with friends, but when you get to know him you realize he's basically reflective and serious.
+
+Reflective people are people who *reflect* on things--that is, look back at things that have been done or said in order to think calmly and quietly about them.
+
+
+### genuflect
+
+To kneel on one knee and then rise as an act of respect.
+
+> At religious shrines in China, pilgrims may not only genuflect but actually lie down flat on the ground.
+
+
+### inflection
+
+1. A change in the pitch, tone, or loudness of the voice.
+2. The change in form of a word showing its case, gender, number, tense, mood, voice, or comparison.
+
+> She couldn't understand her grandfather's words, but she knew from his inflection that he was asking a question.
+
