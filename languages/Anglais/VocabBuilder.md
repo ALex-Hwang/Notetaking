@@ -1205,3 +1205,83 @@ To kneel on one knee and then rise as an act of respect.
 
 > She couldn't understand her grandfather's words, but she knew from his inflection that he was asking a question.
 
+
+### POST
+
+comes from a Latin word meaning "after" or "behind". 
+
+
+### posterior
+
+Situated toward or on the back; rear
+
+> In a human *posterior* and *dorsal* can both refer to the back, but in a fish *posterior* refers to the tail area.
+
+*Posterior* comes from the Latin word *posterus*, meaning "coming after".
+
+
+### posthumous
+
+1. Published after the death of the author.
+2. Following or happening after one's death.
+
+> Though Van Gogh scarcely sold a single painting during his lifetime, he rose to posthumous fame as one of the world's great artists.
+
+The word is now mostly used of artistic works that appear after the death of the artist, or the changing reputation of a dead artist.
+
+
+### postmodern
+
+Having to do with a movement in architecture, art, or literature that is a reaction against modernism and that reintroduces traditional elements and techniques in odd contexts as well as elements from popular culture.
+
+> The postmodern AT&T building in New York, with the "Chippendale" top that reminds viewers of an antique dresser, aroused a strom of criticism.
+
+
+### postmortem
+
+1. Occurring after death.
+2. Following the event.
+
+> In their postmortem discussion of the election, the reporters tried to explain how the polls and predictions could have been so completely wrong.
+
+*Post mortem* is Latin for "after death". In English, *postmortem* refers to an examination, investigation, or process that takes place after death.
+
+
+## MAL
+
+comes from a Latin word meaning "bad". A *malady* is a bad condition--a disease or illness--of the body or mind. *Malpractice* is bad medical practice. *Malodorous* things smell bad. A *malefactor* is someone guilty of bad deeds.
+
+
+### malevolent
+
+Having or showing intense ill will or hatred.
+
+> Captain Ahab sees Mody Dick not simply as a whalt but as a powerfully malevolent foe.
+
+*Malevolence* runs deep. *Malevolent* enemies have bitter and lasting feelings of ill will. *Malevolence* can also show itself in hurtful words, and can sometimes be seen in something as small as an angry look or gesture.
+
+
+### malicious
+
+Desiring to cause pain, injury, or distress to another.
+
+> The boys didn't take the apples with any malicious intent; they were just hungry and didn't know any better.
+
+*Malicious* and *malevolent* are close in meaning, since both refer to ill will that desires to see someone else suffer. But while *malevolent* suggests deep and lasting dislike, malicious usually means petty and spiteful.
+
+
+### malign
+
+To make harsh and often false or misleading statements about.
+
+> Captain Bligh of the Bounty may be one of the most unjustly maligned figures in British naval history.
+
+*Malign* is related to verbs like *defame*, *slander*, and *libel*. It also is an adjective. The very similar *malignant*, which used to be a common synonym of *malign*, today tends to describe dangerous medical conditions, especially cancerous tumors.
+
+
+### malnourished
+
+Badly or poorly nourished.
+
+> When they finally found the children in the locked cabin, they were pale and malnourished but unharmed.
+
