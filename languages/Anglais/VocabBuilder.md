@@ -1285,3 +1285,39 @@ Badly or poorly nourished.
 
 > When they finally found the children in the locked cabin, they were pale and malnourished but unharmed.
 
+
+## CATA
+
+comes from the Greek *kata*, one of whose meanings was "down." A *catalogue* is a list of items put down on paper, and a *catapult* is a weapon for hurling missles down on one's enemies.
+
+
+### cataclysm
+
+1. A violent and massive change of the earth's surface.
+2. A momentous event that results in great upheaval and often destruction.
+
+> World War I was a great cataclysm in modern history, marking the end of the old European social and political order.
+
+
+### catacomb
+
+An underground cemetery of connecting passageways with recesses for tombs.
+
+> The early Christian catacombs of Rome provide a striking glimpse into the ancient past for modern-day visitors.
+
+
+### catalyst
+
+1. A substance that speeds up a chemical reaction or lets it take place under different conditions.
+2. Someone or something that brings about or speeds significant change or action.
+
+> The assassination of Archduke Ferdinand in Sarajevo in 1914 turned out to be the catalyst for World War I.
+
+
+### catatonic
+
+1. Relating to or suffering from a form of schizophrenia\ ˌskit-sə-ˈfrē-nē-ə\ .
+2. Showing an unusual lack of movement, activity, or expression.
+
+> After an hour, extreme boredom had produced a catatonic stupor in those of the audience who were still awake.
+
