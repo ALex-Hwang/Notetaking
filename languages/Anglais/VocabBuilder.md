@@ -1321,3 +1321,41 @@ An underground cemetery of connecting passageways with recesses for tombs.
 
 > After an hour, extreme boredom had produced a catatonic stupor in those of the audience who were still awake.
 
+
+## PROT/PROTO
+
+comes from Greek and has the basic meaning "first in time" or "first formed".
+
+
+### protagonist
+
+The main character in a literary work.
+
+> Macbeth is the ruthlessly ambitious protagonist of Shakespeare's play, but it is his wife who pulls the string.
+
+A character who opposes the hero is the *antagonist*, from a Greek veb that means literally "to struggle against".
+
+
+### protocol
+
+1. A code of diplomatic or military rules of behavior.
+2. A set of rules for the fromatting of data in an electronic communications system.
+
+> The guests at the governor's dinner were introduced and seated according to the strict protocol governing such occasions.
+
+
+### protoplasm
+
+The substance that makes up the living parts of cells.
+
+> A mixture of organic and inorganic substances, such as protein and water, protoplasm is regarded as the physical basis of life.
+
+
+### prototype
+
+1. An original model on which something is patterned.
+2. A first, full-scale, usually working version of a new type or design.
+
+> There was great excitement when, after years of top-secret development, the prototype of the new Stealth bomber first took to the skies.
+
+A prototype is someone or something that serves as a model or inspiration.
