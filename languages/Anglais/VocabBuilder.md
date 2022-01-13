@@ -1359,3 +1359,47 @@ The substance that makes up the living parts of cells.
 > There was great excitement when, after years of top-secret development, the prototype of the new Stealth bomber first took to the skies.
 
 A prototype is someone or something that serves as a model or inspiration.
+
+
+## ANTE
+
+which is Latin for "before" or "in front of". *Antebellum* literally means "before the war", usually the American Civil War.
+
+
+### antechamber
+
+An outer room that leads to another and is often used as a waiting room.
+
+> The antechamber to the lawyer's office was both elegant and comfortable, designed to inspire trust and confidence.
+
+*Antechamber* is a less formal synmonym, one that's often applied to the waiting rooms of professional offices today.
+
+
+### antedate
+
+1. To date something (such as a check) with a date earlier than that of actual writing.
+2. To precede in time.
+
+> Nantucket Island has hundreds of beautifully preserved houses that antedate the Civil War.
+
+Dictionary editors are constantly noticing how the oral use of a word may antedate its first appearance in print by a number of years.
+
+
+### antecedent
+
+1. A word or phrase that is referred to by a pronoun that follows it.
+2. An event or cause coming before something.
+
+> As I remember, she said "My uncle is taking my father, and he's staying overnight," but I'm not sure what the antecedent of "he" was.
+
+Keep in mind that *antecedent* isn't just a grammar term. You may talk about the antecedents of heart disease (such as bad eating habits), the antecedents of WW II, and even your own antecedents (your mother, grandfather, etc.).
+
+
+### anterior
+
+1. Located before or toward the front of head.
+2. Coming before in time or development.
+
+> When she moved up to join the first-class passengers in the plane's anterior section, she was delighted to recognize the governor in the next seat.
+
+
