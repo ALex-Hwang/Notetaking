@@ -1403,3 +1403,75 @@ Keep in mind that *antecedent* isn't just a grammar term. You may talk about the
 > When she moved up to join the first-class passengers in the plane's anterior section, she was delighted to recognize the governor in the next seat.
 
 
+## ORTHO
+
+comes from *orthos*, the Greek word for "straight", "right", or "true". 
+
+
+### orthodontics
+
+A branch of dentistry that deals with the treatment and correction of crooked teeth and other irregularities.
+
+> A specialty in orthodontics would require three more years of study after completing her dentistry degree.
+
+
+### orthodox
+
+1. Holding established beliefs, especially in religion.
+2. Conforming to established rules or traditions; conventional.
+
+> The O'Brienns remain orthodox Catholics, faithfully observing the time-honored rituals of their church.
+
+
+### orthopedics
+
+The correction or pervention of deformities of the skeleton.
+
+> For surgery to correct the child's spinal curvature, they were referred to the hospital's orthopedics section.
+
+Just as an orthodontist corrects crookedness in the teeth, an *orthopedist* corrects crookedness in the skeleton. 
+
+
+### orthography
+
+The spelling of words, especially spelling according to standard usage.
+
+> Even such eloquent writers as George Washington and Thomas Jefferson were deficient in the skill of orthography.
+
+
+## RECT
+
+comes from the Latin word *rectus*, which meas "straight" or "right". 
+
+
+### rectitude
+
+Moral integrity.
+
+> The school superintendent was stern and not terribly popular, but no one questioned her moral rectitude.
+
+
+### rectify
+
+To set right; remedy.
+
+> The college is moving to rectify this unfortunate situation before anyone else gets hurt.
+
+We might rectify an injustice by seeing to it that a wrongly accused person is cleared. An error in a financial record can be rectified by replacing an incorrect number with a correct one.
+
+
+### rectilinear
+
+1. Moving in or forming a straight line. 
+2. Having many straight lines.
+
+> After admiring Frank Lloyd Wright's rectilinear buildings for years, the public was astonished by the giant spiral of the Guggenheim Museum.
+
+
+### directive
+
+Something that guides or directs; especially, a general instruction from a high-level body or official.
+
+> At the very beginning of the administration, the cabinet secretary had sent out a directive to all border-patrol personnel.
+
+As the definition states, a directive *directs*. A directive from a school from a school principal might provide guidance about handling holiday celebrations in class.
