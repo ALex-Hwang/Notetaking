@@ -1475,3 +1475,43 @@ Something that guides or directs; especially, a general instruction from a high-
 > At the very beginning of the administration, the cabinet secretary had sent out a directive to all border-patrol personnel.
 
 As the definition states, a directive *directs*. A directive from a school from a school principal might provide guidance about handling holiday celebrations in class.
+
+
+## EU
+
+comes from the Greek word for "well"; in English words it can also mean "good" or "true".
+
+
+### eugenic
+
+Relating to or fitted for the production of good offspring through controlled breeding.
+
+> Eugenic techniques have been part of sheep breeding for many years.
+
+Breeders of farm animals have long used eugenic methods to produce horses that run faster, for example, or pigs that provide more meat.
+
+
+### euphemism
+
+An agreeable or inoffensive word or expression that is substituted for one that may offend or disgust.
+
+> The Victorians, uncomfortable with the physical side of human existence, had euphemisim for most bodily functions.
+
+
+### euphoria
+
+A strong feeling of well-being or happiness.
+
+> Swept up in the euphoria of a Super Bowl victory, the whole city seemed to have poured out into streets.
+
+*Euphoria* is the feeling of an intense (and usually temporary) "high".
+
+
+### eulogy
+
+1. A formal speech or writing especially in honor of a dead person.
+2. High praise.
+
+> The book was a fond eulogy to the 1950s, when Americans had joined social organizations of all kinds.
+
+
