@@ -1515,3 +1515,85 @@ A strong feeling of well-being or happiness.
 > The book was a fond eulogy to the 1950s, when Americans had joined social organizations of all kinds.
 
 
+
+## DYS
+
+comes from Greek, where it means "bad" or "difficult".
+
+
+### dystopia
+
+An imaginary place where people lead dehumanized and often fearful lives.
+
+> For a 10-year-old British boy, boarding school could be a grim dystopia, with no comforts, harsh punishements, and constant bullying.
+
+The suffix *-topia* means "place".
+
+
+### dyslexia
+
+A disturbance or interference with the ability to read or to use language.
+
+> She managed to deal with her dyslexia through careful tutoring all throughtout elementary school.
+
+*Dyslexic* individuals have an impaired ability to recognize and process words and letters.
+
+
+### dyspeptic
+
+1. Relating to or suffering from indigestion.
+2. Having an irritable temperament; ill-humored.
+
+> For decades the dyspeptic columnist served as the newspaper's--and the city's--resident grouch.
+
+*Dyspepsia* comes from the Greek word for "bad digestion". Today we generally use *dyspeptic* to mean "irritable"--that is, in the kind of mood that could be produced by bad digestion.
+
+
+### dysplasia
+
+Abnormal development of cells or organs, or an abnormal structure resulting from such growth.
+
+> The infant was born with minor hip dysplasia, which was fixed by a routine operation.
+
+
+## EQU
+
+comes from the Latin word *aequus* meaning "equal".
+
+
+### equable
+
+1. Tending to remain calm.
+2. Free from harsh changes or extreme variation.
+
+> Her friends thought it odd that an equable woman had married a man so moody and unpredictable.
+
+*Equable* usually describes either climate or personality. A steady, clam, equable personality may not produce much excitement but usually makes for a good worker and a good parent, and maybe even a longer life.
+
+
+### adequacy
+
+Being equal to some need or requirement.
+
+> Environmentalists doubt the adequacy of these regulations to protect the wilderness areas.
+
+When we question the adequacy of health-care coverage, or parking facilities, or school funding, we're asking if they are *equal* to our need.
+
+
+### equilibrium
+
+1. A state in which opposing forces are balanced so that one is not stronger or greater than the other. 
+2. A state of emotional balance or calmness.
+
+> The news had come as a shock, and it took him several minutes to recover his equilibrum.
+
+*Equilibrium* contains a root from the Latin *libra*, meaning "weight" or "balance".
+
+
+### equinox
+
+A day when day and night are the same length.
+
+> She and her friends got together for an equinox party twice a year to celebrate the arrival of the fall and the spring.
+
+*nox* in Latin means "night". We got spring equinox, summer solstice, fall equinox, and winter solstice.
