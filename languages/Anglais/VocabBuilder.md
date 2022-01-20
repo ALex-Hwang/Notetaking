@@ -1597,3 +1597,42 @@ A day when day and night are the same length.
 > She and her friends got together for an equinox party twice a year to celebrate the arrival of the fall and the spring.
 
 *nox* in Latin means "night". We got spring equinox, summer solstice, fall equinox, and winter solstice.
+
+
+## QUIS
+
+which is derived from the Latin verb meaning "to seek or obtain".
+
+
+### inquisition
+
+A questioning or examining that is often harsh or severe.
+
+> The President's first choice for the job turned him down, fearing the Senate hearings would turn into an inquisition into her past.
+
+While an *inquiry* can be almost any search for truth, the related word *inquisition* suggests a long, thorough investigation that involves extensive and harsh questioning.
+
+
+### perquisite
+
+1. A privilege or profit that is provided in addition to one's base salary.
+2. Something claimed as an exclusive possession or right.
+
+> A new car, a big house, and yearly trips to Europe were among the perquisites that made the presidency of Wyndam College such an attractive position.
+
+
+### acquisitive
+
+Eager to acquire; greedy
+
+> With each year the couple became more madly acquisitive, buying jewelry, a huge yacht, and two country estates.
+
+
+### requisition
+
+A demand or request (such as for supplies) made with proper authority.
+
+> The teachers had grown impatient with having to submit a requisition for even routine classroom supplies.
+
+*Requisition* was originally a noun but is now probably more common as a verb. So we either can speak of sending our office's purchasing department a requisition for computers, or of *requisitioning* more computers from the department.
+
