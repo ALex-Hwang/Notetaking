@@ -1636,3 +1636,45 @@ A demand or request (such as for supplies) made with proper authority.
 
 *Requisition* was originally a noun but is now probably more common as a verb. So we either can speak of sending our office's purchasing department a requisition for computers, or of *requisitioning* more computers from the department.
 
+
+## PLE 
+
+comes from a Latin word meaning "to fill". It can be seen in the word *plenty*, meaning basically "filled", and *complete*, meaning "thoroughly filled."
+
+
+### plenary
+
+1. Including all who have a right to attend.
+2. Complete in all ways.
+
+> For the convention's plenary session, five thousand members gathered to hear a star speaker.
+
+*Plenary* often shows up in writing referring to the "plenary power" held by a government.
+
+
+### complement
+
+1. Something that fills up or makes perfect; the amount needed to make something complete.
+2. A counterpart.
+
+> On the committee, the two young people provided an energetic complement to the older members.
+
+*Complement* can also mean "the full quantity, number, or amount"; thus, a ship's complement of officers and crew is the whole force necessary for full operation. *Complement* is also as a verb: a bright blue scarf *complements* a cream-colored outfit beautifully.
+
+
+### deplete
+
+To reduce in amount by using up.
+
+> Years of farming on the same small plot of land had left the soil depleted of minerals.
+
+The *de-* prefix often means "do the opposite of", so *deplete* means the opposite of "fill". But *deplete* often suggests something more serious. Desertions can deplete an army; layoffs can deplete an office staff.
+
+
+### replete
+
+Fully or abundantly filled or supplied.
+
+> The professor's autobiography was replete with scandalous anecdotes about campus life in the 1950s.
+
+*Replete* implies that something is filled almost to capacity.
