@@ -1678,3 +1678,41 @@ Fully or abundantly filled or supplied.
 > The professor's autobiography was replete with scandalous anecdotes about campus life in the 1950s.
 
 *Replete* implies that something is filled almost to capacity.
+
+
+## METR/METER
+
+comes to us from Greek by way of Latin; in both languages it refers to "measure".
+
+
+### metric
+
+1. Relating to or based on the metric system.
+2. Relating to or aranged in meter.
+
+> Americans have resisted using the metric system for years, but are now slowly getting accustomed to a few of the metric units.
+
+
+### meter
+
+1. The basic of length.
+2. A systematic thythm in poetry or music.
+
+> The basic meter of the piece was 3/4, but its rhythms were so complicated that 3/4 was soeimes hard to hear.
+
+
+### odometer
+
+An instrument used to measure distance traveled.
+
+> Jennifer watched the odometer to see how far she would have to drive to her new job.
+
+
+### tachometer
+
+A device used to measure speed of rotation.
+
+> Even though one purpose of a tachmeter is to help drivers keep their engine speeds down, some of us occasionally try to see how high we can make the needle go.
+
+Greek root *tach-* means "speed".
+
