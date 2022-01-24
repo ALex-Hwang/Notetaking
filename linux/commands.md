@@ -458,3 +458,10 @@ done
 > When using the `select` command, remember that the result value stored in the variable is the entire text string instead of the number associated with the text.
 
 
+### steam editors
+1. sed
+2. gawk
+
+<mark>You have to personally refer to the manual pages of these two.</mark>
+
+
