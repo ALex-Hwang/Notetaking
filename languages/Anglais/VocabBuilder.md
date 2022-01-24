@@ -1716,3 +1716,42 @@ A device used to measure speed of rotation.
 
 Greek root *tach-* means "speed".
 
+
+## AUD
+
+from the Latin verb *audire*, is the root that has to do with hearing.
+
+
+### auditor
+
+A person who formally examines and verifies financial accounts.
+
+> It seems impossible that so many banks could have gotten into so much trouble if their auditors had been doing their jobs.
+
+The *auditing* of a company's financial records by independent examiners on a regular basis is necessary to prevent "cooking the books", and thus to keep the company honest.
+
+
+### auditory
+
+1. Perceived or experienced through hearing.
+2. Of or relating to the sense of organs of hearing.
+
+> With the "surround-sound" system in most theaters, going to a movie is now an auditory experience as much as a visual one.
+
+*Auditory* is close in meaning to *acoustic* and *acoustical* but *auditory* 
+
+
+### audition
+
+A trial performance to evaluate a performer's skills.
+
+> Auditions for Broadway shows attract so many hopeful unknown performers that everyone in the business calls them "cattle calls."
+
+
+### inaudible
+
+Not heard or capable of being heard.
+
+> The coach spoke to her in a low voice that was inaudible to the rest of the gymnastics team.
+
+
