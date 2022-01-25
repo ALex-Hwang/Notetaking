@@ -1755,3 +1755,42 @@ Not heard or capable of being heard.
 > The coach spoke to her in a low voice that was inaudible to the rest of the gymnastics team.
 
 
+## SON
+
+is the Latin root meaning "sound". 
+
+
+### osnic
+
+1. Having to do with sound.
+2. Having to do with the speed of sound in air (about 750 miles per hour).
+
+> A sonic depth finder can easily determine the depth of a lake by bouncing a sound signal off the bottom.
+
+
+### dissonant
+
+1. Clashing or discordant, especially in music.
+2. Incompatible or disagreeing.
+
+> Critics of the health-care plan pointed to its two seemingly dissonant goals: cost containment, which would try to control spending, and universal coverage, which could increase spending.
+
+What is *dissonant* sounds or feels unresolved, unharmonic, and clashing.
+
+
+### resonance
+
+1. A continuing or echoing of sound.
+2. A richness and variety in the depth and quality of sound.
+
+> The resonance of Janmes Earl Jone's vocal tones in such roles as Darth Vader made his voice one of the most recognizable of its time.
+
+You may say that a novel resonates strongly with you because the author seems to be describing your own experiences and feelings.
+
+
+### ultrasonic
+
+Having a frequency higher than what can be heard by the human ear.
+
+> My granpa's dog is always pricking up its ears at some ultrasonic signal, while he himself is so deaf he can't even hear a bird singing.
+
