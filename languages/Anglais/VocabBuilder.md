@@ -1794,3 +1794,47 @@ Having a frequency higher than what can be heard by the human ear.
 
 > My granpa's dog is always pricking up its ears at some ultrasonic signal, while he himself is so deaf he can't even hear a bird singing.
 
+
+## ERR
+
+from the Latin verb *errare*, means "to wander" or "to stray".
+
+
+### errant
+
+1. Wandering or moving about aimlessly.
+2. Straying outside proper bounds, or away from an accepted pattern or standard.
+
+> Modern-day cowboys have been known to use helicopters to spot errant calves.
+
+*Errant* means both "wandering" and "mistaken."
+
+
+### aberrant
+
+Straying or differing from the right, normal, or natural type.
+
+> Sullivan's  increasingly aberrant behavior was leading to his friends question his mental stability.
+
+
+### erratic
+
+1. Having no fixed course.
+2. Lacking in consistency.
+
+> In the 1993 World series, the Phillies weren't helped by the erratic performance of their ace relief pitcher, "Wild Thing."
+
+A missle that loses its guidance system may follow an erratic path, and a river with lots of twists and bends is said to have an erratic course.
+
+A stock market that often changes direction is said to be acting *erratically*.
+
+
+### erroneous
+
+Mistaken, incorrect.
+
+> For years her parents had had an erroneous idea of her intelligence, because she didn't begin to talk until the age of six.
+
+Erroneous theories, erroneous conclusions, and erroneous decisions.
+
+
