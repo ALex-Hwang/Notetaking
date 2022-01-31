@@ -1838,3 +1838,43 @@ Mistaken, incorrect.
 Erroneous theories, erroneous conclusions, and erroneous decisions.
 
 
+## CED
+
+comes from the Latin verb *cedere*, meaning "to proceed" or "to yield".
+
+
+### cede
+
+TO give up, especially by treaty; yield.
+
+> Their 88-year-old father reluctantly ceded control over his finances to two of the children this year.
+
+Critics warn that we are ceding leadership in alternative-energy technology to China.
+
+
+### concede
+
+To admin grudgingly; yield.
+
+> To his friends, Senator Beasley concedes that his reelection campaign was badly run and that he made several damaging errors.
+
+
+### accede
+
+1. To give in to a request or demand.
+2. To give approval or consent.
+
+> This time Congress refused to accede to the demands of the president, and began cutting the funding for the war.
+
+To accede usually means to yield, often under pressure and with some reluctance, to the needs or request of others.
+
+
+### precedent
+
+Something done or said that may be an example or rule to guide later acts of a similar kind.
+
+> When Judy bought Christmas presents for all her relatives one year, she claimed that it set no precedent, but it did.
+
+A precedent is something that *precedes*, or comes before. When hostages are being held for ransom, a government may worry about setting a bad precedent if it gives in.
+
+
