@@ -1878,3 +1878,42 @@ Something done or said that may be an example or rule to guide later acts of a s
 A precedent is something that *precedes*, or comes before. When hostages are being held for ransom, a government may worry about setting a bad precedent if it gives in.
 
 
+## VIS 
+
+comes from a Latin verb meaning "to see".
+
+
+### vista
+
+1. A distant view.
+2. An extensive mental view, as over a stretch of time.
+
+> The economic vista for the next two years looks excellent, according to a poll of business economists.
+
+
+### vis-a-vis
+
+In relation to or compared with.
+
+> Many financial reporters worry about the loss of U.S. economic strength vis-a-vis our principal trading partners.
+
+Today *vis-a-vis* no longer refers to actual physical faces and bodies, but its modern meaning comes from the fact that things that are face-to-face can easily be compared or contrasted.
+
+
+### visionary
+
+1. A person with foresight and imagination.
+2. A dreamer whose ideas are often impratical.
+
+> His followers regarded himn as an inspired visionary; his opponents saw him as either a con man or a lunatic.
+
+A visionary is someone with a strong *vision* of the future.
+
+
+### envisage
+
+To have a mental picture of; visualize
+
+> A mere three weeks after they had started dating, the two were already arguing, and none of us could envisage the relationship lasting for long.
+
+
