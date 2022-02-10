@@ -1917,3 +1917,44 @@ To have a mental picture of; visualize
 > A mere three weeks after they had started dating, the two were already arguing, and none of us could envisage the relationship lasting for long.
 
 
+## SPECT
+
+comes from the Latin verb *specere*, meaning "to look at".
+
+
+### aspect
+
+1. A part of something.
+2. A certain way in which something appears or may be regarded.
+
+> Many experts believe the mental aspect of distance racing is more important than the physical aspect.
+
+An aspect of something is basically the direction from which it is looked at.
+
+
+### prospect
+
+1. The possibility that something will happen in the future.
+2. An opportunity for something to happen.
+
+> There was little prospect of a breakthrough in the negotiations before the elections.
+
+The prospect of a recession may lead investors to pull their money out of the stock market.
+
+
+### perspective
+
+1. Point of view; the angle, direction, or standpoint from which a person looks at something.
+2. The art technique of painting or drawing a scene so that objects in it seem to have depth and distance.
+
+> From the perspective of the lowly soldier, the war looked very different.
+
+
+
+### prospectus
+
+A printed statement that describes something (such as a new business or a stock offering) and is sent out to people who may be interested in buying or investing.
+
+> The prospectus for the mutual fund says nothing about how its profit forecasts were calculated.
+
+
