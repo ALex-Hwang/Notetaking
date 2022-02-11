@@ -1950,11 +1950,50 @@ The prospect of a recession may lead investors to pull their money out of the st
 > From the perspective of the lowly soldier, the war looked very different.
 
 
-
 ### prospectus
 
 A printed statement that describes something (such as a new business or a stock offering) and is sent out to people who may be interested in buying or investing.
 
 > The prospectus for the mutual fund says nothing about how its profit forecasts were calculated.
+
+
+## VOC
+
+comes from the Latin words meaning "voice" and "speak".
+
+
+### equivocate
+
+1. To use ambiguous language, especially in order to deceive.
+2. To avoid giving a direct answer.
+
+> As the company directors continued to equivocate, the union prepared to return to the picket lines.
+
+An *equivocal* answer is one that manges not to take a stand.
+
+
+### irrevocable
+
+Impossible to call back or retract.
+
+> She had told him she wasn't going to see him again, but he couldn't believe her decision was irrevocable.
+
+*Irrevocable* has a formal sound to it and is often in legal contexts.
+
+
+### advocate
+
+To speak in favor of.
+
+> Our lawyer is advocating a suit against the state, but most of us would rather try some other approaches first.
+
+*Advocate* is not only a noun: An *advocate* is someone who advocates for you, or argues on your side.
+
+
+### vociferous
+
+Making noisy or emphatic outcries.
+
+> Whenever the referee at these soccer games makes a questionable call, you hear vociferous protests from half the parents.
 
 
