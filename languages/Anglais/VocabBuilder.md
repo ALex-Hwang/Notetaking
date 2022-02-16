@@ -1997,3 +1997,40 @@ Making noisy or emphatic outcries.
 > Whenever the referee at these soccer games makes a questionable call, you hear vociferous protests from half the parents.
 
 
+## PHON
+
+a Greek root meaning "sound", "voice", or "speech".
+
+
+
+### phonics
+
+A method of teaching beginners to read and pronounce words by learning the characteristics sounds of letters, letter groups, and especially syllables.
+
+> My son's school switched to phonics instruction several years ago, and reading achievement in the early grades has been improving.
+
+
+### phonetic
+
+Relating to or representing the sounds of the spoken language.
+
+> In almost every Spanish word the pronunciation is clear from the spelling, so the phonetic part of learning Spanish isn't a big challenge.
+
+
+
+### polyphonic
+
+Refering to a style of music in which two or more melodies are sung or played against each other in harmony.
+
+> Whenever he needed something calming, he would put on some quiet polyphonic music from the Renaissance and just let the voices waft over him.
+
+In *polyphony*, each part has its own melody, and they weave together in a web that may become very dense.
+
+
+### cacophony
+
+Harsh or unpleasant sound.
+
+> In New York she was often dragged off by her boyfriend to downtown jazz concerts, where she struggled to make sense of what sounded like nothing but cacophony.
+
+Greek prefix *caco-*, meaning "bad".
