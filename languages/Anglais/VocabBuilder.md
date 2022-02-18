@@ -2034,3 +2034,40 @@ Harsh or unpleasant sound.
 > In New York she was often dragged off by her boyfriend to downtown jazz concerts, where she struggled to make sense of what sounded like nothing but cacophony.
 
 Greek prefix *caco-*, meaning "bad".
+
+
+## CUR
+
+from the Latin verb *curare*, means basically "care for".
+
+
+### curative
+
+Having to do with curing diseases.
+
+> As soon as the antibiotic entered his system, he imagined he could begin to feel its curative effects.
+
+
+### curator
+
+Someone in charge of something where things are on exhibit, such as a collection, a museum, or a zoo.
+
+> In recent decades, zoo curators have tried to make the animals' surroundings more and more like their natural homes.
+
+
+### procure
+
+To get possession of; obtain
+
+> Investigators were looking into the question of how the governor had procured such a huge loan at such a favorable rate.
+
+While *procure* has the general meaning of "obtain", it usually implies that some effort is required. In many business offices, a particular person is responsible for procuring supplies, and government agencies have formal *procurement* polcies.
+
+
+### sinecure
+
+A job or position requiring little work but usually providing some income.
+
+> The job of Dean of Students at any college is no sinecure; the hours can be long and the work draining.
+
+
