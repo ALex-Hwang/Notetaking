@@ -2071,3 +2071,40 @@ A job or position requiring little work but usually providing some income.
 > The job of Dean of Students at any college is no sinecure; the hours can be long and the work draining.
 
 
+## PERI
+
+both means Latin and Greek, means "around".
+
+
+### perimeter
+
+The boundary or distance around a body or figure.
+
+> In a medieval siege, an army would surround the perimeter of a city's high walls, denying the population any food from outside as it assaulted the walls with catapults and battering rams.
+
+
+### periodontal
+
+Concerning or affecting the tissues around the teeth.
+
+> Years of bad living had filled his teeth with cavities, but it was periodontal disease that finished them off.
+
+
+### peripatetic
+
+1. Having to do with walking.
+2. Moving or traveling from place to place.
+
+> She spent her early adult years as a peripatetic musician, traveling from one engagement to another.
+
+
+### peripheral
+
+1. Having to do with the outer edges, especially of the field of vision.
+2. Secondary or supplemental.
+
+> Like most good fourth-grade teachers, he had excellent peripheral vision, and the kids were conviced that he had eyes in the back of his head.
+
+Your peripheral vision is the outer area of your field of vision, where you can still detect movement and shapes.
+
+
