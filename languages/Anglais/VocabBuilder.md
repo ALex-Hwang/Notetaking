@@ -2108,3 +2108,40 @@ Concerning or affecting the tissues around the teeth.
 Your peripheral vision is the outer area of your field of vision, where you can still detect movement and shapes.
 
 
+## SENS
+
+comes from the Latin noun *sensus*, meaning "feeling" or "sense".
+
+
+### sensor
+
+skip the explanation here.
+
+> The out door lights are triggered by a motion sensor that detects changes in infrared energy given off by moving human bodies.
+
+
+### desensitize
+
+To cause (someone or something) to react less to or be less affected by something.
+
+> Even squeamish nursing students report becoming desensitized to the sight of blood after a few months of training.
+
+*Desensitize* is more often used when talking about negative emotions.
+
+
+### extrasensory
+
+Not acting or occurring through any of the known senses.
+
+> A kind of extrasensory capacity seems to tell some soldiers when danger is near.
+
+
+### sensuour
+1. Highly pleasing to the senses.
+2. Relating to the senses.
+
+> Part of what audiences loved about her was the delight she took in the sensuous pleasures of well-prepared food.
+
+*Sensuous* usually implies pleasing of the senses by art or similar means. *Sensual*, on the other hand, usually describes gratification of the senses or physical appetites as an end in itself; thus wse often think of wealthy Romans leading lives devoted to sensual pleasure.
+
+
